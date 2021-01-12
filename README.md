@@ -22,7 +22,7 @@
 ![fitness Tracker 3](https://user-images.githubusercontent.com/57837212/104111444-c1da5d80-52af-11eb-8793-953fb6e446e6.PNG)
 
   ## Usage
-As a user I want to be able to log on to the fitness tracker application and create a new work out and then add in whether or not I am doing resistance work out or a cardio work out. Then I want to be able to add what type of resistance work out or cardio work out I am doing that day. For instance, Today I am squating. So I select new work out, resistance work out and then I type in squats, the weight I am squating, and the amount of reps and I add it to the fitness tracker, Then I can view the details of my work out in the fitness dashboard.
+As a user I want to be able to log on to the fitness tracker application and then select new work out, add in whether or not I am doing a resistance work out or a cardio work out. Then I want to be able to enter in what type of resistance work out or cardio work out I am doing that day. For instance, if I was squating. I would select new work out, resistance work out and then I type in squats, the weight I am squating, and the amount of reps and I would add it to the fitness tracker, Then I should be able to view the details of my work out in the fitness dashboard.
 
 
   ## Contributing
