@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://scottpwells:1234@clus
 });
 
 // routes
-app.use(require("./routes/api.js"));
+app.use(require("./routes/api"));
 
 app.use(require("./routes/views.js"));
 
