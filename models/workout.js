@@ -11,8 +11,8 @@ day:
 
     },
 
-    exercises: [
-        {
+    exercises: [{
+        
             type: {
                 type: String,
                 trim: true,
