@@ -16,10 +16,10 @@
  
 
   [websitelink](https://agile-thicket-09555.herokuapp.com/?id=5ffa45a66c3ef800177e3c97)
+  
+![fitness-tracker-screen-1](https://user-images.githubusercontent.com/57837212/104794889-b20fbd00-5778-11eb-97f2-d7b6cf331ea1.PNG)
+![fitness dashboard-screenshot-2](https://user-images.githubusercontent.com/57837212/104794890-b6d47100-5778-11eb-8210-d095e218221b.PNG)
 
-![Fitness Tracker](https://user-images.githubusercontent.com/57837212/104111441-bdae4000-52af-11eb-891a-14c64040e5d7.PNG)
-![Fitness Tracker](https://user-images.githubusercontent.com/57837212/104111443-bf780380-52af-11eb-87ec-fcd1a4b7b85b.PNG)
-![fitness Tracker 3](https://user-images.githubusercontent.com/57837212/104111444-c1da5d80-52af-11eb-8793-953fb6e446e6.PNG)
 
   ## Usage
 As a user I want to be able to log on to the fitness tracker application and then select new work out, add in whether or not I am doing a resistance work out or a cardio work out. Then I want to be able to enter in what type of resistance work out or cardio work out I am doing that day. For instance, if I was squating. I would select new work out, resistance work out and then I type in squats, the weight I am squating, and the amount of reps and I would add it to the fitness tracker, Then I should be able to view the details of my work out in the fitness dashboard.
